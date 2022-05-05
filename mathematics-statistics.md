@@ -22,7 +22,7 @@
   *
   *
   
-## Algorithms
+## Algorithms / Machine Learning / Deep Learning
 
   *
   *
